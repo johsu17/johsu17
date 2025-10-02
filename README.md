@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Joseph, I graduated from UC Santa Barbara in 2025 with a B.S in Stats & Data Science from the US.
 <!--
 **johsu17/johsu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
