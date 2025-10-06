@@ -14,7 +14,8 @@ The goal of this analysis was to understand how different medical conditions inf
     	4. [Does age influence the average billing amount for patients?](#4-does-age-influence-the-average-billing-amount-for-patients)  
     	5. [Do males or females have higher average billing amounts overall?](#5-do-males-or-females-have-higher-average-billing-amounts-overall)  
     	6. [Which combinations of medical condition and admission type produce the highest costs?](#6-which-combinations-of-medical-condition-and-admission-type-produce-the-highest-costs)  
-  - [Conclusion](#-conclusion)  
+  - [Conclusion](#-conclusion)
+  - [Visiulization](#-Excel Visulization)    
 
 ## Dataset Description
 
@@ -183,4 +184,7 @@ From analyzing over **55,000 hospital admission records (2019–2024)**, several
 Overall, the data shows that **chronic illnesses and planned procedures** are the biggest cost drivers in hospital billing, while factors like **age, gender, and insurance provider** have only modest effects.  
 Future analysis could incorporate **length of stay**, **procedure type**, and **severity level** to build predictive models for healthcare cost forecasting.
 
+## Excel Visualization
+
+<img width="1795" height="931" alt="image" src="https://github.com/user-attachments/assets/9f597d96-97d0-4813-b095-6db4544b0196" />
 
