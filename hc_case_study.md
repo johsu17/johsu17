@@ -56,7 +56,7 @@ ORDER BY avg_bill DESC;
 
 <img width="210" height="133" alt="image" src="https://github.com/user-attachments/assets/fd3ac9ae-e322-4a46-a3bd-463e46ecd6c3" />
 
-From the queries we ran, we can see that obesity is the most expensive medical condition. 
+Obesity had the highest average billing amount among all medical conditions, followed by hypertension and diabetes. These findings suggest that chronic conditions tend to generate the highest hospital costs due to ongoing treatment needs, lifestyle-related complications, and the increased likelihood of multiple admissions or procedures.
 
 ### 2. How do admission types (Emergency, Routine, Urgent, etc.) affect average billing amounts?
 **SQL Query**
