@@ -10,3 +10,4 @@ A collection of case studies and analyses where I use SQL, Excel, Power BI and a
 
 ### 🎮 [Video Game Sales Case Study](vg_case_study.md)
 
+### 💊 [Health Care Analysis Case Study](hc_case_study.md)
