@@ -15,7 +15,7 @@ The goal of this analysis was to understand how different medical conditions inf
     	5. [Do males or females have higher average billing amounts overall?](#5-do-males-or-females-have-higher-average-billing-amounts-overall)  
     	6. [Which combinations of medical condition and admission type produce the highest costs?](#6-which-combinations-of-medical-condition-and-admission-type-produce-the-highest-costs)  
   - [Conclusion](#-conclusion)
-  - [Visiulization](#-Excel Visulization)    
+  - [Visulization](#-Excel Visulization)    
 
 ## Dataset Description
 
