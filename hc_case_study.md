@@ -3,6 +3,11 @@
 This project explores a de-identified healthcare dataset containing over 55,000 hospital admission records from 2019 to 2024. Each record includes patient demographics, medical conditions, admission details, and billing information.
 The goal of this analysis was to understand how different medical conditions influence hospital billing costs. To be more specific, to identify which conditions tend to generate the highest average billing amounts.
 
+## 🧭 Table of Contents
+  - [Dataset Description](#dataset-description)  
+  - [Objective](#objective)  
+  - [Tools Used](#tools-used)  
+
 ## Dataset Description
 
 - **Rows:** 55,500  
@@ -176,5 +181,18 @@ ORDER BY AVG([Billing Amount]) DESC;
 
 Diabetes patients admitted for elective procedures had the highest average billing amount at $25,983.14, followed closely by obesity (urgent admissions) and asthma (emergency admissions). Overall, chronic conditions such as diabetes, obesity, and asthma consistently appear among the most expensive, regardless of admission type. This suggests that managing long-term health conditions often leads to higher hospital costs, especially when patients require specialized or unplanned care.
 
+## 🩺 Conclusion
+
+From analyzing over **55,000 hospital admission records (2019–2024)**, several key insights emerged:
+
+- **Obesity** had the highest overall average billing amount among medical conditions, indicating that treatments related to chronic weight-related conditions can be costly.  
+- **Elective admissions** were slightly more expensive than emergency or urgent ones, showing that planned medical procedures tend to drive higher hospital costs.  
+- **Medicare** patients had the highest billing averages, though differences among major insurance providers were minimal, suggesting consistent pricing across insurers.  
+- While patients aged **0–17** appeared to have the highest average bills, this was largely due to a small sample size and high-cost pediatric cases. Among adults, the **56–75** age group incurred the highest costs, aligning with expectations about aging and healthcare utilization.  
+- **Male patients** had marginally higher average billing amounts than females, though the difference was negligible.  
+- When combining **medical condition** with **admission type**, chronic conditions such as **diabetes, obesity, and asthma** emerged as the most expensive categories, especially under elective or urgent admissions.
+
+Overall, the data shows that **chronic illnesses and planned procedures** are the biggest cost drivers in hospital billing, while factors like **age, gender, and insurance provider** have only modest effects.  
+Future analysis could incorporate **length of stay**, **procedure type**, and **severity level** to build predictive models for healthcare cost forecasting.
 
 
