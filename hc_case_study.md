@@ -8,12 +8,12 @@ The goal of this analysis was to understand how different medical conditions inf
   - [Objective](#objective)  
   - [Tools Used](#tools-used)
     - [Research Questions & Findings](#research-questions--findings)  
-    1. [Which medical conditions have the highest average billing amounts?](#1-which-medical-conditions-have-the-highest-average-billing-amounts)  
-    2. [How do admission types affect average billing amounts?](#2-how-do-admission-types-emergency-routine-urgent-etc-affect-average-billing-amounts)  
-    3. [Which insurance providers cover the highest average billing amounts?](#3-which-insurance-providers-cover-the-highest-average-billing-amounts)  
-    4. [Does age influence the average billing amount for patients?](#4-does-age-influence-the-average-billing-amount-for-patients)  
-    5. [Do males or females have higher average billing amounts overall?](#5-do-males-or-females-have-higher-average-billing-amounts-overall)  
-    6. [Which combinations of medical condition and admission type produce the highest costs?](#6-which-combinations-of-medical-condition-and-admission-type-produce-the-highest-costs)  
+    	1. [Which medical conditions have the highest average billing amounts?](#1-which-medical-conditions-have-the-highest-average-billing-amounts)  
+    	2. [How do admission types affect average billing amounts?](#2-how-do-admission-types-emergency-routine-urgent-etc-affect-average-billing-amounts)  
+    	3. [Which insurance providers cover the highest average billing amounts?](#3-which-insurance-providers-cover-the-highest-average-billing-amounts)  
+    	4. [Does age influence the average billing amount for patients?](#4-does-age-influence-the-average-billing-amount-for-patients)  
+    	5. [Do males or females have higher average billing amounts overall?](#5-do-males-or-females-have-higher-average-billing-amounts-overall)  
+    	6. [Which combinations of medical condition and admission type produce the highest costs?](#6-which-combinations-of-medical-condition-and-admission-type-produce-the-highest-costs)  
   - [Conclusion](#-conclusion)  
 
 ## Dataset Description
