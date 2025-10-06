@@ -104,26 +104,6 @@ ORDER BY avg_bill DESC;
 
 Medicare patients had the highest average billing amount at $25,615.99, followed closely by Blue Cross at $25,613.01 and Aetna at $25,553.29. This shows that billing costs are fairly consistent across major insurance providers, with Medicare slightly leading in average hospital expenses.
 
-SELECT 
-	CASE 
-		WHEN [Age] BETWEEN 0 AND 17 THEN '0–17'
-		WHEN [Age] BETWEEN 18 AND 35 THEN '18–35'
-		WHEN [Age] BETWEEN 36 AND 55 THEN '36–55'
-		WHEN [Age] BETWEEN 56 AND 75 THEN '56–75'
-		ELSE '76+' 
-	END AS Age_Group,
-	FORMAT(AVG([Billing Amount]), 'N2') AS [Average Bill]
-FROM hc_data
-GROUP BY 
-	CASE 
-		WHEN [Age] BETWEEN 0 AND 17 THEN '0–17'
-		WHEN [Age] BETWEEN 18 AND 35 THEN '18–35'
-		WHEN [Age] BETWEEN 36 AND 55 THEN '36–55'
-		WHEN [Age] BETWEEN 56 AND 75 THEN '56–75'
-		ELSE '76+' 
-	END
-ORDER BY AVG([Billing Amount]) DESC;
-
 ### 4. Does age influence the average billing amount for patients?
 **SQL Query**
 
