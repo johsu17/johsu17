@@ -1,4 +1,4 @@
-# 👨🏼‍⚕️ Health Care Analysis
+# 👨🏼‍⚕️ Hospital Billing Cost Analysis
 
 This project explores a de-identified healthcare dataset containing over 55,000 hospital admission records from 2019 to 2024. Each record includes patient demographics, medical conditions, admission details, and billing information.
 The goal of this analysis was to understand how different medical conditions influence hospital billing costs. To be more specific, to identify which conditions tend to generate the highest average billing amounts.
