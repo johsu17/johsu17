@@ -8,6 +8,4 @@ I enjoy turning data into actionable insights that drive business growth and imp
 
 A collection of case studies and analyses where I use SQL, Excel, Power BI and analytics to answer real-world business questions and uncover insights.
 
-### 🎮 [Video Game Sales Case Study](vg_case_study.md)
-
 ### 💊 [Health Care Analysis Case Study](hc_case_study.md)
